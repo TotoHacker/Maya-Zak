@@ -1,0 +1,12 @@
+body{
+    background: red;
+}
+
+nav{
+    width: 100%;
+}
+
+ul {
+    display: flex;
+}
+
