@@ -1,0 +1,12 @@
+body{
+    background: rgb(207, 207, 9);
+}
+
+.nav .ul__li{
+    display: flex;
+    width: 100%;
+    background: rgba(106, 37, 158, 0.792);
+}
+.ul__a{
+    font-size: 20vh;
+}
